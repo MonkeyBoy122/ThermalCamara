@@ -13,7 +13,6 @@
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [ESP32-S3-WROOM-1-N16R8](https://www.lcsc.com/product-detail/C2913202.html) | Wi-Fi and the main loop | 1 | $5.19 | $5.19 | [LCSC](https://www.lcsc.com/product-detail/C2913202.html) |
-| [MLX90640ESF-BAA-000-TU](https://www.digikey.com/en/products/detail/melexis-technologies-nv/MLX90640ESF-BAA-000-TU/8638463) | 32×24 thermal image sensor | 1 | $50.00 | $50.00 | [DigiKey](https://www.digikey.com/en/products/detail/melexis-technologies-nv/MLX90640ESF-BAA-000-TU/8638463) |
 | [2.0" ST7789 240×320 IPS LCD](https://www.sparkfun.com/tft-lcd-display-module-screen-2-0in-240x320-spi-interface.html) | Shows the thermal image | 1 | $18.95 | $18.95 | [SparkFun](https://www.sparkfun.com/tft-lcd-display-module-screen-2-0in-240x320-spi-interface.html) |
 | [DW01A (SOT-23-6)](https://www.lcsc.com/product-detail/C359989.html) | Battery protection controller | 1 | $0.05 | $0.05 | [LCSC](https://www.lcsc.com/product-detail/C359989.html) |
 | [503450 LiPo 3.7 V ~1200 mAh, JST-PH](https://grobotronics.com/polymer-lithium-ion-battery-3.7v-1200mah-jst-ph.html?sl=en) | Battery | 1 | $8.00 | $8.00 | [Grobotronics](https://grobotronics.com/polymer-lithium-ion-battery-3.7v-1200mah-jst-ph.html?sl=en) |
@@ -37,8 +36,8 @@
 | [2 kΩ 0402 resistor](https://www.lcsc.com/search?q=2k+0402+resistor) | Charge current set and battery protection (R3, R7) | 2 | $0.01 | $0.02 | [LCSC](https://www.lcsc.com/search?q=2k+0402+resistor) |
 | [100 Ω 0402 resistor](https://www.lcsc.com/search?q=100R+0402+resistor) | Battery protection supply (R6) | 1 | $0.01 | $0.01 | [LCSC](https://www.lcsc.com/search?q=100R+0402+resistor) |
 | [10 µF 0603 capacitor](https://www.lcsc.com/search?q=10uF+0603+capacitor) | Power decoupling (C2–C5, C8) | 5 | $0.03 | $0.15 | [LCSC](https://www.lcsc.com/search?q=10uF+0603+capacitor) |
-| **Parts subtotal** | — | — | — | **$85.89** | — |
+| **Parts subtotal** | — | — | — | **$35.89** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$85.89** | — |
+| **Total** | — | — | — | **$35.89** | — |
 
-$14.11 left of the tier's funding.
+$64.11 left of the tier's funding.
