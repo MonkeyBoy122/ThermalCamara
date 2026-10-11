@@ -38,7 +38,7 @@
 | [10 µF 0603 capacitor](https://www.lcsc.com/search?q=10uF+0603+capacitor) | Power decoupling (C2–C5, C8) | 5 | $0.03 | $0.15 | [LCSC](https://www.lcsc.com/search?q=10uF+0603+capacitor) |
 | [MLX90640ESF-BAA-000-TU](https://www.digikey.com/en/products/detail/melexis-technologies-nv/MLX90640ESF-BAA-000-TU/8638463) | 32×24 thermal image sensor | 1 | $38.52 | $38.52 | [DigiKey](https://www.digikey.com/en/products/detail/melexis-technologies-nv/MLX90640ESF-BAA-000-TU/8638463) |
 | **Parts subtotal** | — | — | — | **$69.44** | — |
-| **Tax & shipping** | — | — | — | **$28.67** | — |
-| **Total** | — | — | — | **$98.11** | — |
+| **Tax & shipping** | — | — | — | **$37.32** | — |
+| **Total** | — | — | — | **$106.76** | — |
 
-$1.89 left of the tier's funding.
+**$6.76 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
