@@ -2,13 +2,13 @@
 
 Hack Club Half-Life project, designed by Jeswanth Battula. Budget: under $100.
 
-![Pocket Thermal 3D render of the board](figure12_3d_render.png)
+![Pocket Thermal 3D render of the board](images/board/3d_render.png)
 
-![PCB layout](figure13_pcb_cad.png)
+![PCB layout](images/board/pcb_layout.png)
 
-![Finished enclosure](enclosure_hero.png)
+![Finished enclosure](images/enclosure/hero.png)
 
-![Charging dock](dock_hero.png)
+![Charging dock](images/dock/hero.png)
 
 
 ## What it is
@@ -31,11 +31,11 @@ Two-part screw-together shell: front bezel with LCD visor and button guard, back
 Camera leans back 12 degrees on its corner bumpers. An Apple USB-C plug sits in a tilted pocket under the camera's USB-C port. The base plate carries the cable groove, two stop posts, six screws and four foot pockets. Front name plate reads "Pocket Thermal" in Pacifico cursive.
 Any standard 5 V USB charger works, including Apple and 65 W laptop chargers, with a USB-C to USB-C cable.
 
-## Files (all in this one folder, plus bom.csv)
+## Files (cad/ = STEP models, images/ = renders and build photos, pcb/ = schematic, PCB, BOM and EasyEDA export, docs/ = build journal)
 - dock_only.step, dock_with_camera_enclosure_and_cable.step: charging dock CAD
 - enclosure_only.step, enclosure_with_board.zip: camera enclosure CAD
 - PCB_layout_and_BOM_2026-10-10.pdf, Schematic_2026-10-06.pdf: board files
-- figure12_3d_render.png, figure13_pcb_cad.png: board renders
+- images/board/3d_render.png, images/board/pcb_layout.png: board renders
 - enclosure_*.png: finished enclosure pictures
 - enclosure_build_hour01.png to hour13.png: enclosure build pictures
 - dock_*.png: finished dock pictures
@@ -78,7 +78,7 @@ Any standard 5 V USB charger works, including Apple and 65 W laptop chargers, wi
 - dock_only.step, dock_with_camera_enclosure_and_cable.step: charging dock CAD
 - enclosure_only.step, enclosure_with_board.zip: camera enclosure CAD
 - PCB_layout_and_BOM_2026-10-10.pdf, Schematic_2026-10-06.pdf: board files
-- figure12_3d_render.png, figure13_pcb_cad.png: board renders
+- images/board/3d_render.png, images/board/pcb_layout.png: board renders
 - enclosure_*.png: finished enclosure pictures
 - enclosure_build_hour01.png to hour13.png: enclosure build pictures
 - dock_*.png: finished dock pictures
