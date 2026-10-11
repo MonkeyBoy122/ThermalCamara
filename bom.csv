@@ -1,0 +1,26 @@
+Part,Description,Qty,Unit Price USD,Total USD,Vendor,Designators
+ESP32-S3-WROOM-1-N16R8,Wi-Fi and main MCU,1,5.19,5.19,LCSC,U1
+2.0in ST7789 240x320 IPS LCD,Shows thermal image,1,10.99,10.99,Waveshare,LCD1
+DW01A SOT-23-6,Battery protection controller,1,0.05,0.05,LCSC,
+503450 LiPo 3.7V 1200mAh JST-PH,Battery,1,10.99,10.99,Amazon,BT1
+TP4056-42-ESOP8,USB-C LiPo charger,1,0.12,0.12,LCSC,
+FS8205A SOT-23-6,Battery protection MOSFET pair,1,0.10,0.10,DigiKey,
+AP2112K-3.3TRG1,3.3V regulator,1,0.15,0.15,LCSC,
+USBLC6-2SC6,USB data line protection,1,0.25,0.25,LCSC,
+USB-C 16-pin connector,Charging and USB programming,1,0.15,0.15,LCSC,
+JST S2B-PH-K-S(LF)(SN),Battery connector,1,0.15,0.15,LCSC,
+MSK12C02 slide switch,Power switch,1,0.10,0.10,LCSC,
+5.1x5.1mm SMD tact switch,Reset/boot/trigger buttons,3,0.05,0.15,LCSC,
+0603 LED red/green,Status indicators,2,0.03,0.06,LCSC,
+8-pin 2.54mm female header,LCD header,1,0.15,0.15,LCSC,
+5.1k 0402 resistor,USB-C CC1/CC2,2,0.01,0.02,LCSC,"R1,R2"
+1k 0402 resistor,LED current limit,2,0.01,0.02,LCSC,"R4,R5"
+10k 0402 resistor,ESP32 reset pull-up,1,0.01,0.01,LCSC,R8
+100k 0402 resistor,Battery voltage divider,2,0.01,0.02,LCSC,"R9,R10"
+4.7k 0402 resistor,I2C pull-ups,2,0.01,0.02,LCSC,"R11,R12"
+100nF 0402 capacitor,Decoupling,5,0.01,0.05,LCSC,"C1,C6,C7,C9,C10"
+2k 0402 resistor,Charge current set and protection,2,0.01,0.02,LCSC,"R3,R7"
+100 ohm 0402 resistor,Battery protection supply,1,0.01,0.01,LCSC,R6
+10uF 0603 capacitor,Power decoupling,5,0.03,0.15,LCSC,"C2-C5,C8"
+MLX90640ESF-BAA-000-TU,32x24 thermal image sensor,1,38.52,38.52,DigiKey,U2
+Custom 2-layer PCB (5 boards),The board,1,2.00,2.00,JLCPCB,
